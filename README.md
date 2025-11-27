@@ -19,4 +19,6 @@ eliminating intermediaries and promoting efficient, transparent, and sustainable
 - Marketplace for buying/selling energy tokens  
 - Token staking for grid stability rewards  
 - Cross-chain energy asset transfer through bridges  
+contract address: 0xF6E59Ba2b2c1e7C89f2f50cBE848d1Ba4B5949f3
+<img width="1920" height="1020" alt="Screenshot 2025-11-27 150121" src="https://github.com/user-attachments/assets/79848e9c-dda9-4f7d-81e1-92cdde1df3f3" />
 
